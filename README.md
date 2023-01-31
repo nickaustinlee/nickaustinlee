@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on some cool projects at Blue River Technology (John Deere)
-- 👯 I’m looking to collaborate on building the next-gen Data & AI Platform for CVML 
+- 🔭 I’m currently working on individual projects and consulting with startups.
+- 👯 I’m looking to collaborate on building new technologies in the Data & AI space.
 - 💬 Ask me about unstructured data and AI. 
 - 📫 [LinkedIn](https://www.linkedin.com/in/nickaustinlee/)
 - 📫 [Twitter](https://twitter.com/NickAustinLee)
