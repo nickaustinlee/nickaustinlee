@@ -97,18 +97,22 @@ class NickLee:
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nickaustinlee&theme=tokyonight)](https://git.io/streak-stats)
+<!-- GitHub Streak Stats - Alternative reliable service -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nickaustinlee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nickaustinlee&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- More reliable trophy alternative -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=nickaustinlee&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Fallback: GitHub Profile Summary Cards -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickaustinlee&theme=tokyonight)
 
 </div>
 
@@ -118,7 +122,12 @@ class NickLee:
 
 <div align="center">
 
+<!-- Primary activity graph -->
 [![Nick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nickaustinlee&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Alternative: Profile Summary Cards -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nickaustinlee&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nickaustinlee&theme=tokyonight)
 
 </div>
 
