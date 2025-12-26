@@ -29,47 +29,6 @@ class NickLee:
         ]
 ```
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats with multiple fallback options -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=nickaustinlee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nickaustinlee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nickaustinlee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    alt="Nick's GitHub Stats"
-    height="180"
-  />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nickaustinlee&layout=compact&theme=tokyonight&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nickaustinlee&layout=compact&theme=tokyonight&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nickaustinlee&layout=compact&theme=tokyonight&langs_count=8" 
-    alt="Top Languages"
-    height="180"
-  />
-</picture>
-
-</div>
-
 ## 🏆 GitHub Overview
 
 <div align="center">
