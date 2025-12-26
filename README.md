@@ -70,15 +70,6 @@ class NickLee:
 
 </div>
 
-<div align="center">
-
-<!-- GitHub Streak Stats - Alternative reliable service -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nickaustinlee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 GitHub Overview
 
 <div align="center">
