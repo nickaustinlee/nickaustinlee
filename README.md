@@ -104,14 +104,11 @@ class NickLee:
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Overview
 
 <div align="center">
 
-<!-- More reliable trophy alternative -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=nickaustinlee&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Fallback: GitHub Profile Summary Cards -->
+<!-- GitHub Profile Summary Cards -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickaustinlee&theme=tokyonight)
 
 </div>
